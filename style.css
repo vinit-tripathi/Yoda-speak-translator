@@ -36,6 +36,7 @@ textarea {
     margin-top: 2rem;
     background-color: var(--primary-color);
     border-radius: .5rem;
+    color: white;
 }
 
 button {
